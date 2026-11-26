@@ -112,7 +112,14 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2 (after configuration)<br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e2078632-6bd4-4ec8-9a68-2c294bdd48fe" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/afdcb5ba-ef30-463c-bfcb-e55111e8e302" />
 •	show ip route on R1 and R2<br>
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/767fd46f-5115-4a3c-b86a-4c5c22e4ea4b" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d487879d-ec62-4d24-ac78-6df1eed5d642" />
+
 •	Successful ping PC1 → PC4; R2 → PC2<br>
 •	Interface up messages after no shutdown on each link <br>
 ________________________________________<br>
